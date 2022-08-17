@@ -1,4 +1,4 @@
-This program is for a fictional grocery store that needed has a .txt file of items sold in a given day. They needed a program to analize this data in various ways.
+This program is for a fictional grocery store that has a .txt file of items sold in a given day. They needed a program to analize this data in various ways.
 the progtam prints a menu of four options see a list and count of each item search the cound of a specific item and print a graph of the items and the number sold.
 I think this program is well modularized and utilizes python and C++ well.
 The program reads the file each time a python function is called. It would be better if it was only needed once.
