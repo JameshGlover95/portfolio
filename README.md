@@ -10,3 +10,7 @@ Thanks to the modularization and in-line notes it's easy to change or update any
 The 7-1.rar contains a 3D environment containing recreated objects from my office and attempts to create realistic texturing and lighting through multiple sources and header files the user can float around and view the objects from any angle using WASD controls.
 
 I have also included several sln files named for data structures that include sorting and displaying the data among these is a console application file that has a menu allowing for CSV files of course data to be loaded into the data structure and have it displayed or searched based on a course code
+
+The project design template details the gaming room draw it or lose it game requirements and design constraints and recommendations.
+
+The contact service files are a Java part of a Java application to collect and hold contact information such as phone number and address and validate those inputs to meet the respective criteria. it uses Unit testing to ensure the data fits the requirements.
