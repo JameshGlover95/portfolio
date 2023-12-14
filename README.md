@@ -14,3 +14,7 @@ I have also included several sln files named for data structures that include so
 The project design template details the gaming room draw it or lose it game requirements and design constraints and recommendations.
 
 The contact service files are a Java part of a Java application to collect and hold contact information such as phone number and address and validate those inputs to meet the respective criteria. it uses Unit testing to ensure the data fits the requirements.
+
+Working with Artemis Financial, a fictional financial consulting firm, I addressed their need for a more secure web application by implementing checksum verification for data integrity. Through a meticulous vulnerability assessment, I enhanced security measures, utilizing AES encryption and SHA-256 hash functions.
+
+Effectively identifying and mitigating vulnerabilities, I underscored the criticality of secure coding practices. Ensuring data confidentiality and integrity, the implemented security measures contribute significantly to a company's overall wellbeing by safeguarding sensitive information and minimizing financial and reputational risks. This assignment demonstrates my adeptness in coding securely and my commitment to fortifying software against potential threats.
