@@ -1,3 +1,7 @@
+Inventory ApP
+The app was developed to streamline inventory management, addressing the user's need for a simple yet efficient way to track items. It featured key screens like the main inventory view, an "Add Item" screen, and possibly an edit interface for existing entries. UI designs prioritized clarity and ease of use, facilitating intuitive navigation and clear labeling. In coding, a modular approach was followed, employing techniques like SharedPreferences for local data storage and RecyclerView for dynamic list display. Functional testing was crucial to identify and rectify bugs, ensuring a smooth user experience. Innovation was required in data management, leading to the efficient use of SharedPreferences for local storage. A notable component demonstrating proficiency was the RecyclerView adapter, which efficiently handled large datasets while ensuring optimal performance and user interaction.
+
+
 This program is for a fictional grocery store that has a .txt file of items sold on a given day. They needed a program to analyze this data in various ways.
 the program prints a menu of four options sees a list and counts each item search the count of a specific item and print a graph of the items and the number sold.
 I think this program is well modularized and utilizes Python and C++ well.
